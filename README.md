@@ -1,5 +1,6 @@
-- 👋 My name is Stepan
-- 👨‍💻 I'm a Software Developer & Automation expert since 2016 with over 7 years of experience in web development
+👋 My name is Stepan
+
+👨‍💻 I'm a Software Developer & Automation expert since 2016 with over 7 years of experience in web development
 
 I can help you:
 Developing web apps from back to front:
