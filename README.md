@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @stepankuzindev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 My name is Stepan
+👨‍💻 I'm a Software Developer & Automation expert since 2016 with over 7 years of experience in web development
 
-<!---
-stepankuzindev/stepankuzindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can help you:
+Developing web apps from back to front:
+✅ Python3
+✅ Django
+✅ Flask
+✅ FastAPI
+✅ aiohttp
+
+Automation solutions, Scrapers, bots, and scripts with Python, Make.com, Zapier, etc:
+✅ Crawling, parsing and data extractions
+✅ Scripting
+✅ API integrations
+
+🤝 So if you're ready to take your web development project to the next level, let's work together! Get in touch and let's start building something amazing.
+
+🧑‍💻 Thank you, Stepan! 🚀
